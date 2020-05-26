@@ -1,0 +1,85 @@
+h1{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black ;
+
+}
+
+body{
+    background-color: #f3f4f5;
+}
+
+#exito{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #757575;
+}
+#texto{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #757575;  
+}
+
+
+#bandeja{
+    display: flex;
+  justify-content: center;
+}
+
+.Imagenestamaño {
+    width: 300px;
+    height: 300px;
+    margin-right: 90px;
+
+     }
+#videobandeja {
+display: flex;
+justify-content: center;
+ }
+
+ footer {
+    display: flex;
+    justify-content: center;
+  }
+
+  #contenidobandeja {
+    display: flex;
+    justify-content: center;
+  }
+
+  #imagen {
+    display: flex;
+    justify-content: center; 
+  }
+  
+  #h2{
+    display: flex;
+    justify-content: center;  
+  }
+  #p1{
+      display: flex;
+    justify-content: center; 
+
+  }
+
+  #queson{
+    display: flex;
+    justify-content: center; 
+
+  }
+  .ingredientes{
+    width: 300px;
+    height: 300px;
+    margin-right: 90px;
+  }
+
+
+  #conteingredientes{
+    display: flex;
+    justify-content: center;
+  }
+#imagenprin{ 
+  display: flex;
+  justify-content: center; 
+   }
+
